@@ -55,11 +55,13 @@ This project was built to:
 - Showcase personal front-end development skills
 
 ## File Structure
-greeting-card-css/ <br>
-├── index.html        # Main HTML structure <br>
-├── styles.css        # All the CSS styling and effects<br>
-├── preview.png       # Optional screenshot of the card<br>
-└── README.md         # This file<br>
+```
+greeting-card-css/ 
+├── index.html        # Main HTML structure 
+├── styles.css        # All the CSS styling and effects
+├── preview.png       # Optional screenshot of the card
+└── README.md         # This file
+```
 
 
 ## Author
