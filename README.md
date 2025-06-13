@@ -58,6 +58,7 @@ This project was built to:
 ```
 greeting-card-css/ 
 ├── index.html        # Main HTML structure 
+├── .gitignore         
 ├── styles.css        # All the CSS styling and effects
 ├── preview.png       # Optional screenshot of the card
 └── README.md         # This file
